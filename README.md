@@ -1,2 +1,2 @@
 # gitIntro
-Introduction to git
+This is an introduction to git
